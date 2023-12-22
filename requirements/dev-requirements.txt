@@ -12,7 +12,7 @@ amqp==1.4.9
     # via kombu
 ansible-builder==1.0.1
     # via galaxy-importer
-ansible-core==2.11.4
+ansible-core==2.15.7rc1
     # via
     #   -r requirements/requirements.in
     #   galaxy-importer
