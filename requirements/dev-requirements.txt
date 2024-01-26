@@ -77,7 +77,7 @@ coreschema==0.0.4
     #   drf-yasg
 coverage==4.5.2
     # via pytest-cov
-cryptography==3.4.6
+cryptography==42.0.0
     # via
     #   ansible-core
     #   pyjwt
