@@ -343,7 +343,7 @@ sphinx==1.7.9
     # via -r requirements/requirements.in
 sphinxcontrib-websupport==1.1.0
     # via sphinx
-sqlparse==0.2.4
+sqlparse==0.5.0
     # via
     #   django
     #   django-debug-toolbar
