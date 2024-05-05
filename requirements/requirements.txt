@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file=requirements/requirements.txt requirements/requirements.in
 #
-aiohttp==3.7.4
+aiohttp==3.9.4
     # via -r requirements/requirements.in
 alabaster==0.7.12
     # via sphinx
