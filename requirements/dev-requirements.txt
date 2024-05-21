@@ -289,7 +289,7 @@ pyyaml==5.4.1
     #   yamllint
 redis==3.0.1
     # via rq
-requests==2.26.0
+requests==2.32.0
     # via
     #   -r requirements/requirements.in
     #   coreapi
