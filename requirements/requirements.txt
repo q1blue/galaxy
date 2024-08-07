@@ -87,7 +87,7 @@ distro==1.6.0
     # via bindep
 dj-database-url==0.5.0
     # via -r requirements/requirements.in
-django==2.2.19
+django==4.2.15
     # via
     #   -r requirements/requirements.in
     #   django-allauth
