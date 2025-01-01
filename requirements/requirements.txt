@@ -99,7 +99,7 @@ django==2.2.19
     #   drf-nested-routers
     #   drf-yasg
     #   pulpcore
-django-allauth==0.43.0
+django-allauth==65.3.0
     # via -r requirements/requirements.in
 django-bootstrap-form==3.4
     # via -r requirements/requirements.in
