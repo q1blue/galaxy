@@ -154,7 +154,7 @@ gunicorn==19.7.1
     #   pulpcore
 honcho==1.0.1
     # via -r requirements/dev-requirements.in
-idna==2.7
+idna==3.7
     # via
     #   requests
     #   yarl
