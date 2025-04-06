@@ -224,7 +224,7 @@ psycopg2-binary==2.7.6.1
     # via
     #   -r requirements/requirements.in
     #   pulpcore
-pulpcore==3.0.0b21
+pulpcore==3.58.0
     # via -r requirements/requirements.in
 py==1.7.0
     # via pytest
