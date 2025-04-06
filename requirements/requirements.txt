@@ -146,7 +146,7 @@ gunicorn==23.0.0
     # via
     #   -r requirements/requirements.in
     #   pulpcore
-idna==2.7
+idna==3.7
     # via
     #   requests
     #   yarl
