@@ -74,7 +74,7 @@ coreschema==0.0.4
     # via
     #   coreapi
     #   drf-yasg
-cryptography==3.4.3
+cryptography==42.0.2
     # via
     #   ansible-core
     #   pyjwt
