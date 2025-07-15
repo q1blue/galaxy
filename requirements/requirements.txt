@@ -207,7 +207,7 @@ psycopg2-binary==2.7.6.1
     # via
     #   -r requirements/requirements.in
     #   pulpcore
-pulpcore==3.0.0b21
+pulpcore==3.81.0
     # via -r requirements/requirements.in
 pycodestyle==2.7.0
     # via flake8
@@ -325,7 +325,7 @@ uritemplate==3.0.0
     # via
     #   coreapi
     #   drf-yasg
-urllib3==1.24.3
+urllib3==2.5.0
     # via
     #   botocore
     #   requests
